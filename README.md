@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isurika Wickramasinghe</h1>
-<h3 align="center">CS Undergraduate at University of Sri Jayewardenepura</h3>
+<h3 align="center">Associate Engineer, Application Management at LSEG in Sri Lanka</h3>
+<h3 align="center">CS Graduate at University of Sri Jayewardenepura</h3>
 
 - 🌱 I’m currently learning **Shell Scripting, AWS, Python**
 
